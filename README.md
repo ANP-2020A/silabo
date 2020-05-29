@@ -48,7 +48,7 @@
       * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
  
   
-### Clase 2 - API, REST, Laravel
+### Clase 2 - API, REST, Laravel (2020-06-11)
   * ¿Dudas sobre Instalación de Laravel?
   * ¿Qué es una API?
   * ¿Qué es REST?
@@ -62,7 +62,7 @@
     * **5. Modelo y migraciones Article** https://www.loom.com/share/593db733b30f4f0da3bca5238c360140
     
   
-### Clase 3 - Modelos y migraciones
+### Clase 3 - Modelos y migraciones (2020-06-18)
   * ¿Dudas sobre modelos y migraciones en Laravel?
   * ¿Qué es un modelo?
   * ¿Qué son las migraciones?
@@ -74,7 +74,7 @@
     * **8. Controladores y Cors** https://www.loom.com/share/dec50c9dfdf44dceba7e9c8c13a2c6dd
     * Completar el Backlog de los proyectos en tablero de ZenHub
 
-### Clase 4 - Seeding de la BDD, Rutas y Controladores
+### Clase 4 - Seeding de la BDD, Rutas y Controladores (2020-06-25)
   * ¿Dudas sobre seeding de la BDD, rutas y controladores?
   * ¿Para qué sirve el seeding de la BDD?
   * ¿Cómo se deben estrucutras las rutas de la API?
@@ -88,7 +88,7 @@
     * [JSON Web Tokens](https://jwt.io/introduction/)
     
   
-### Clase 5 - Autenticación de usuarios
+### Clase 5 - Autenticación de usuarios (2020-07-02)
   * ¿Dudas sobre Autenticación de usuarios con JWT?
   * ¿Qué es la autenticación de usuarios?
   * ¿Qué es JWT?
@@ -101,7 +101,7 @@
     * **13. Relaciones - Muchos a Muchos** https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36)
 
 
-### Clase 6 - Relaciones de BDD
+### Clase 6 - Relaciones de BDD (2020-07-09)
   * ¿Dudas sobre las relaciones en la BDD?
   * Revisión de avances
   * **PRUEBA**
@@ -111,14 +111,14 @@
     * [16. Validación de datos (parte 2)](https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2)
     
     
-### Clase 7 - Validación de datos en el servidor
+### Clase 7 - Validación de datos en el servidor (2020-07-16)
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
   * **Deber**
     * **17. Subir y descargar imágenes** https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
     * **18. Autorización - Roles y Permisos** https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
     
- ### Clase 8 - Autorización, Roles y Permisos
+### Clase 8 - Autorización, Roles y Permisos (2020-07-23)
   * ¿Dudas sobre Autorización, Roles y Permisos?
   * Revisión de avances
   * **EXAMEN**
@@ -126,3 +126,33 @@
     * **19. Relaciones polimórficas**
     * **20. Envío de correos**
     * **21. Pruebas unitarias**
+    
+### Clase 9 -  (2020-07-30)
+ 
+ 
+ 
+### Clase 10 -  (2020-08-06)
+
+  
+  
+### Clase 11 -  (2020-08-13)
+
+
+
+### Clase 12 -  (2020-08-20)
+
+
+
+### Clase 13 -  (2020-08-27)
+
+
+
+### Clase 14 -  (2020-09-03)
+
+
+
+### Clase 15 -  (2020-09-10)
+
+
+
+### Clase 16 -  (2020-09-17)
