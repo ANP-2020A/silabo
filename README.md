@@ -24,10 +24,12 @@
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/ANP-2020A).**
 
 ### Clase 1 - Presentación (04/06/2020)
+  * (Encuesta de inicio de curso)[https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u]
+  * (Unirse a la clase en GitHub)[https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a]
+  * (Link a curso completo de LARAVEL API REST)[https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf]
+  * (Link al documento guía de LARAVEL API REST)[]
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
-  * (Unirse a la clase en GitHub)[https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a]
-  * Link a curso completo de LARAVEL API REST: https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf
   * **Deber**
     * **Configurar ambiente de desarrollo Linux**
       * [Instalar Linux, Apache, MySQL, PHP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)  
@@ -38,22 +40,86 @@
       * [1. Introducción](https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
       * [2. Instalación de Laravel](https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
-    * Configurar el ambiente de Github con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
+    * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
 
     * **Lecturas**
       * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
  
   
-### Clase 2 - Presentación (11/06/2020)
+### Clase 2 - API, REST, Laravel
+  * ¿Dudas sobre Instalación de Laravel?
+  * ¿Qué es una API?
+  * ¿Qué es REST?
+  * ¿Qué es API RESTful?
   * Decisión de proyectos grupales
   * [Crear repositorios grupales](https://classroom.github.com/g/cCUJwtHQ)
   * Diseñar modelos de bases de datos
+  * **Deber**
+    * [3. Estructura de directorios y configuración inicial](https://www.loom.com/share/1c350324b93d408eabba82c5fb852256)
+    * [4. Flujo de trabajo Git](https://www.loom.com/share/af099b7741bb434db6dc27cdd1fae312)
+    * [5. Modelo y migraciones (Article)] (https://www.loom.com/share/593db733b30f4f0da3bca5238c360140)
   
-### Clase 3 - Presentación (18/06/2020)
+### Clase 3 - Modelos y migraciones
+  * ¿Dudas sobre modelos y migraciones en Laravel?
+  * ¿Qué es un modelo?
+  * ¿Qué son las migraciones?
+  * ¿Cómo deben manejarse las migraciones?
   * Revisión de modelos de bases de datos
+  * **Deber**
+    * [6. Seeding de la BDD](https://www.loom.com/share/b4aa245b2cf8464f977ba50c4f57db31)
+    * [7. Rutas y Postman](https://www.loom.com/share/8f22fc7222b747efb013633c60d21966)
+    * [8. Controladores y Cors](https://www.loom.com/share/dec50c9dfdf44dceba7e9c8c13a2c6dd)
+    * Completar el Backlog de los proyectos en tablero de ZenHub
+
+### Clase 4 - Seeding de la BDD, Rutas y Controladores
+  * ¿Dudas sobre seeding de la BDD, rutas y controladores?
+  * ¿Para qué sirve el seeding de la BDD?
+  * ¿Cómo se deben estrucutras las rutas de la API?
+  * ¿Qué son los controladores?
+  * Revisión de los backlogs
+  * Planificación de Sprints
+  * **Deber**
+    * [9. Autenticación de usuarios con JWT](https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae)
+    * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+  * **Lectura**
+    * [JSON Web Tokens](https://jwt.io/introduction/)
+    
   
-### Clase 4 - 
-  * Backlog completo de los proyectos en tablero de ZenHub
+### Clase 5 - Autenticación de usuarios
+  * ¿Dudas sobre Autenticación de usuarios con JWT?
+  * ¿Qué es la autenticación de usuarios?
+  * ¿Qué es JWT?
+  * ¿Alternativas para la autenticación?
+  * Revisión de avances
+  * **Deber**
+    * [10. Relaciones en la BDD](https://www.loom.com/share/787163385bb24599830c3b33a5bbb456)
+    * [11. Relaciones en Eloquent - Uno a muchos](https://www.loom.com/share/999787956b6a47f9aed603d15d308884)
+    * [12. Relaciones - usuario actual, seeder con relaciones, Tinker](https://www.loom.com/share/e9e9aa429f20427e9d669c83ef09e33b)
+    * [13. Relaciones - Muchos a Muchos](https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36)
 
 
-
+### Clase 6 - Relaciones de BDD
+  * ¿Dudas sobre las relaciones en la BDD?
+  * Revisión de avances
+  * **PRUEBA**
+  * **Deber**
+    * [14. Recursos API](https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402)
+    * [15. Validación de datos (parte 1)](https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e)
+    * [16. Validación de datos (parte 2)](https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2)
+    
+    
+### Clase 7 - Validación de datos en el servidor
+  * ¿Dudas sobre la validación de datos en el servidor?
+  * Revisión de avances
+  * **Deber**
+    * [17. Subir y descargar imágenes](https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
+    * [18. Autorización - Roles y Permisos](https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
+    
+ ### Clase 8 - Autorización, Roles y Permisos
+  * ¿Dudas sobre Autorización, Roles y Permisos?
+  * Revisión de avances
+  * **EXAMEN**
+  * **Deber**
+    * 19. Relaciones polimórficas
+    * 20. Envío de correos
+    * 21. Pruebas unitarias
