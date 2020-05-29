@@ -25,6 +25,7 @@
 
 ### Clase 1 - Presentación (04/06/2020)
   * (Encuesta de inicio de curso)[https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u]
+  * Verificar instalaciones de XAMPP, PHPStorm.
   * (Unirse a la clase en GitHub)[https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a]
   * (Link a curso completo de LARAVEL API REST)[https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf]
   * (Link al documento guía de LARAVEL API REST)[]
