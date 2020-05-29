@@ -83,7 +83,7 @@
   * Revisión de los backlogs
   * Planificación de Sprints
   * **Deber**
-    * **9. Autenticación de usuarios con JWT** (https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae)
+    * **9. Autenticación de usuarios con JWT** https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae
     * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
   * **Lectura**
     * [JSON Web Tokens](https://jwt.io/introduction/)
@@ -108,16 +108,16 @@
   * **PRUEBA**
   * **Deber**
     * **14. Recursos API** https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402
-    * **15. Validación de datos (parte 1)** https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e)
-    * **16. Validación de datos (parte 2)** https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2)
+    * **15. Validación de datos (parte 1)** https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e
+    * **16. Validación de datos (parte 2)** https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2
     
     
 ### Clase 7 - Validación de datos en el servidor (2020-07-16)
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
   * **Deber**
-    * **17. Subir y descargar imágenes** https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
-    * **18. Autorización - Roles y Permisos** https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
+    * **17. Subir y descargar imágenes** https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46
+    * **18. Autorización - Roles y Permisos** https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae
     
 ### Clase 8 - Autorización, Roles y Permisos (2020-07-23)
   * ¿Dudas sobre Autorización, Roles y Permisos?
