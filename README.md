@@ -37,6 +37,7 @@
       * [Instalar MySQL en Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-instalar-mysql-en-ubuntu-18-04-es)
       * [Instalar phpmyadmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04)
     * **Videos**
+      * Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.
       * [1. Introducción](https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
       * [2. Instalación de Laravel](https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
