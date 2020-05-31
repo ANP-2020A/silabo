@@ -54,12 +54,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
       
   * ### Videos
-      * Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.
-      * **1. Introducción** https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
-      * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
+    * **Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.**
+    * **1. Introducción** https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
+    * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
   * ### Lecturas
-      * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
+    * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
  
   
 ### Clase 2 - API, REST, Laravel (2020-06-11)
@@ -71,7 +71,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [Crear repositorios grupales](https://classroom.github.com/g/cCUJwtHQ)
   * Diseñar modelos de bases de datos
   
-  * **Videos**
+  * ### Videos
     * **3. Estructura de directorios y configuración inicial** https://www.loom.com/share/1c350324b93d408eabba82c5fb852256
     * **4. Flujo de trabajo Git** https://www.loom.com/share/af099b7741bb434db6dc27cdd1fae312 
     * **5. Modelo y migraciones Article** https://www.loom.com/share/593db733b30f4f0da3bca5238c360140
@@ -84,12 +84,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Cómo deben manejarse las migraciones?
   * Revisión de modelos de bases de datos
   
-  * **Videos**
+  * ### Videos
     * **6. Seeding de la BDD** https://www.loom.com/share/b4aa245b2cf8464f977ba50c4f57db31
     * **7. Rutas y Postman** https://www.loom.com/share/8f22fc7222b747efb013633c60d21966
     * **8. Controladores y Cors** https://www.loom.com/share/dec50c9dfdf44dceba7e9c8c13a2c6dd
   
-  * **Deber**
+  * ### Deber
     * Completar el Backlog de los proyectos en tablero de ZenHub
 
 ### Clase 4 - Seeding de la BDD, Rutas y Controladores (2020-06-25)
@@ -100,13 +100,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Revisión de los backlogs
   * Planificación de Sprints
   
-  * **Videos**
+  * ### Videos
     * **9. Autenticación de usuarios con JWT** https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae
  
-  * **Deber**
+  * ### Deber
     * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
   
-  * **Lectura**
+  * ### Lecturas
     * [JSON Web Tokens](https://jwt.io/introduction/)
     
   
@@ -117,7 +117,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Alternativas para la autenticación?
   * Revisión de avances
   
-  * **Videos**
+  * ### Videos
     * **10. Relaciones en la BDD** https://www.loom.com/share/787163385bb24599830c3b33a5bbb456)
     * **11. Relaciones en Eloquent - Uno a muchos** https://www.loom.com/share/999787956b6a47f9aed603d15d308884
     * **12. Relaciones - usuario actual, seeder con relaciones, Tinker** https://www.loom.com/share/e9e9aa429f20427e9d669c83ef09e33b
@@ -130,7 +130,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
   * **PRUEBA**
   
-  * **Videos**
+  * ### Videos
     * **14. Recursos API** https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402
     * **15. Validación de datos (parte 1)** https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e
     * **16. Validación de datos (parte 2)** https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2
@@ -140,7 +140,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
   
-  * **Videos**
+  * ### Videos
     * **17. Subir y descargar imágenes** https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46
     * **18. Autorización - Roles y Permisos** https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae
     
@@ -150,7 +150,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
   * **EXAMEN**
   
-  * **Videos**
+  * ### Videos
     * **19. Relaciones polimórficas**
     * **20. Envío de correos**
     * **21. Pruebas unitarias**
