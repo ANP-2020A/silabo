@@ -50,13 +50,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * [Instalar MySQL en Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-instalar-mysql-en-ubuntu-18-04-es)
       * [Instalar phpmyadmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04)
       * [Instalar Composer](https://getcomposer.org/download/)
+      * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
+      
     * **Videos**
       * Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.
       * **1. Introducción** https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
       * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
-    * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
-
     * **Lecturas**
       * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
  
@@ -69,6 +69,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Decisión de proyectos grupales
   * [Crear repositorios grupales](https://classroom.github.com/g/cCUJwtHQ)
   * Diseñar modelos de bases de datos
+  
   * **Videos**
     * **3. Estructura de directorios y configuración inicial** https://www.loom.com/share/1c350324b93d408eabba82c5fb852256
     * **4. Flujo de trabajo Git** https://www.loom.com/share/af099b7741bb434db6dc27cdd1fae312 
@@ -81,10 +82,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Qué son las migraciones?
   * ¿Cómo deben manejarse las migraciones?
   * Revisión de modelos de bases de datos
+  
   * **Videos**
     * **6. Seeding de la BDD** https://www.loom.com/share/b4aa245b2cf8464f977ba50c4f57db31
     * **7. Rutas y Postman** https://www.loom.com/share/8f22fc7222b747efb013633c60d21966
     * **8. Controladores y Cors** https://www.loom.com/share/dec50c9dfdf44dceba7e9c8c13a2c6dd
+  
   * **Deber**
     * Completar el Backlog de los proyectos en tablero de ZenHub
 
@@ -95,10 +98,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Qué son los controladores?
   * Revisión de los backlogs
   * Planificación de Sprints
+  
   * **Videos**
     * **9. Autenticación de usuarios con JWT** https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae
+ 
   * **Deber**
     * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+  
   * **Lectura**
     * [JSON Web Tokens](https://jwt.io/introduction/)
     
@@ -109,6 +115,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Qué es JWT?
   * ¿Alternativas para la autenticación?
   * Revisión de avances
+  
   * **Videos**
     * **10. Relaciones en la BDD** https://www.loom.com/share/787163385bb24599830c3b33a5bbb456)
     * **11. Relaciones en Eloquent - Uno a muchos** https://www.loom.com/share/999787956b6a47f9aed603d15d308884
@@ -119,7 +126,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 6 - Relaciones de BDD (2020-07-09)
   * ¿Dudas sobre las relaciones en la BDD?
   * Revisión de avances
+  
   * **PRUEBA**
+  
   * **Videos**
     * **14. Recursos API** https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402
     * **15. Validación de datos (parte 1)** https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e
@@ -129,6 +138,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 7 - Validación de datos en el servidor (2020-07-16)
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
+  
   * **Videos**
     * **17. Subir y descargar imágenes** https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46
     * **18. Autorización - Roles y Permisos** https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae
@@ -136,7 +146,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 8 - Autorización, Roles y Permisos (2020-07-23)
   * ¿Dudas sobre Autorización, Roles y Permisos?
   * Revisión de avances
+  
   * **EXAMEN**
+  
   * **Videos**
     * **19. Relaciones polimórficas**
     * **20. Envío de correos**
