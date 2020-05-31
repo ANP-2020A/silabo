@@ -43,7 +43,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
-  * **Deber**
+  
+  * ### Deber
     * **Configurar ambiente de desarrollo Linux**
       * [Instalar Linux, Apache, MySQL, PHP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)  
       * (Opcional para desarrollo local, obligatorio para servidor de producción)[Configuración inicial Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
@@ -52,12 +53,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * [Instalar Composer](https://getcomposer.org/download/)
       * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
       
-    * **Videos**
+  * ### Videos
       * Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.
       * **1. Introducción** https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
       * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
-    * **Lecturas**
+  * ### Lecturas
       * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
  
   
