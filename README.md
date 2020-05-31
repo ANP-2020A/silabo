@@ -155,36 +155,37 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * **20. Envío de correos**
     * **21. Pruebas unitarias**
     
-### Clase 9 -  (2020-07-30)
+### Clase 9 - Envío de correos y Pruebas unitarias (2020-07-30)
  
  
  
-### Clase 10 -  (2020-08-06)
+### Clase 10 - Introducción a ReactJS (2020-08-06)
 
   
   
-### Clase 11 -  (2020-08-13)
+### Clase 11 - Introducción a NextJS (2020-08-13)
 
 
 
-### Clase 12 -  (2020-08-20)
+### Clase 12 - Consumir datos de la API (2020-08-20)
 
 
 
-### Clase 13 -  (2020-08-27)
+### Clase 13 - Autenticación en el cliente (2020-08-27)
+  * **PRUEBA**
+
+
+### Clase 14 - Formularios y validación de datos (2020-09-03)
 
 
 
-### Clase 14 -  (2020-09-03)
+### Clase 15 - Reutilización de componentes (2020-09-10)
 
 
 
-### Clase 15 -  (2020-09-10)
-
-
-
-### Clase 16 -  (2020-09-17)
-
+### Clase 16 - Seguridad (2020-09-17)
+  * **EXAMEN**
+  * **ENTREGA DE PROYECTO FINAL**
 
 
 
