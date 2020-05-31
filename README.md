@@ -38,7 +38,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 1 - Presentación (04/06/2020)
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u)
   * Verificar instalaciones de XAMPP, PHPStorm.
-  * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a)
+  * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
+  * [Crear repositorios individuales para entrega de deberes](https://classroom.github.com/a/9-uJqy7t)
   * [Videos de LARAVEL API REST](https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf)
   * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
   * Ideas para implementación de proyecto de curso
