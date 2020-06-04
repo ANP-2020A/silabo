@@ -64,6 +64,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
  
   
 ### Clase 2 - API, REST, Laravel (2020-06-11)
+  * [Ejercicios de JavaScript](https://repl.it/classroom/invite/pxkDHYY)
   * ¿Dudas sobre Instalación de Laravel?
   * ¿Qué es una API?
   * ¿Qué es REST?
