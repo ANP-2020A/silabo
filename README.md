@@ -187,6 +187,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [15. Validación de datos (parte 1)](https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e)
     * [16. Validación de datos (parte 2)](https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2)
     
+  * ### Lecturas
+    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
+    
+    
     
 ### Clase 7 - Validación de datos en el servidor (2020-07-16)
   * ¿Dudas sobre la validación de datos en el servidor?
@@ -210,6 +214,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * **20. Envío de correos**
     * **21. Pruebas unitarias**
     
+  * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
+    
 ### Clase 9 - Envío de correos y Pruebas unitarias (2020-07-30)
 
   * ### Lecturas
@@ -220,9 +226,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
  
  
 ### Clase 10 - Introducción a ReactJS (2020-08-06)
-  * [Imágenes](https://unsplash.com/)
-  * [Cover Videos](https://coverr.co/)
+
   * ### Lecturas
+    * [Learn React in 2020](https://dev.to/codeartistryio/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd)
+    * [React Cheatsheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
     * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
     * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
     * [Local, Session storage, Cookies](https://morioh.com/p/73377031920f?fbclid=IwAR2AUfmTED7iRa5dciGvpFyazMSCKQKvbu8SB2t2GM6lFzPtBXAj0Pb1SXs)
