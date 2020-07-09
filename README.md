@@ -180,7 +180,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Dudas sobre las relaciones en la BDD?
   * Revisión de avances
   
-  * **PRUEBA**
+  * **PRUEBA** [Crear repo](https://classroom.github.com/a/XQDR8Kio)
   
   * ### Videos
     * [14. Recursos API](https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402)
