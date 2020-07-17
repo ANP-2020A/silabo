@@ -195,7 +195,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 7 - Validación de datos en el servidor (2020-07-16)
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
-  
+
+  * [Crear repos frontend](https://classroom.github.com/g/VI3JrkJL)
+  * [Repo Blog de videos](https://github.com/chalosalvador/blog)
+
   * ### Videos
     * [17. Subir y descargar imágenes](https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
     * [18. Autorización - Roles y Permisos](https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
