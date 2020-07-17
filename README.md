@@ -196,6 +196,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
 
+  * [Solucion de la prueba](https://github.com/DAW-2020A/prueba1-bimestre1-solucion)
+
   * [Crear repos frontend](https://classroom.github.com/g/VI3JrkJL)
   * [Repo Blog de videos](https://github.com/chalosalvador/blog)
 
