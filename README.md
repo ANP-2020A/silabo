@@ -225,13 +225,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 9 - Envío de correos y Pruebas unitarias (2020-07-30)
 
   * Compromisos
-    * ESFOTFeedback: Hasta Relaciones 100% - 1 punto extra: (Autorización)
-    * TitulaciónESFOT: Hasta Recursos API 100% - 1 punto extra: (Relaciones polimórficas)
-    * CursosOnline: Hasta Relaciones 100% - 1 punto extra: (Recursos API)
+    * ESFOTFeedback: Hasta Recursos API 100% - 1 punto extra: (Autorización)
+    * TitulaciónESFOT: Hasta Validación de datos 100% - 1 punto extra: (Relaciones polimórficas)
+    * CursosOnline: Hasta Recursos API 100% - 1 punto extra: (Validación de datos)
     * CitasMedicas: Hasta Relaciones + Autorización - 1 punto extra (Validación de datos)
     * APPET: Hasta Recursos API 100% - 1 punto extra (Validación de datos)
-    * BolsaPsantias: Hasta Relaciones 100% - 1 punto extra (Validación de datos)
-    * PrimerEmpleo: Hasta Relaciones 100% - 1 punto extra (Validación de datos)
+    * BolsaPasantias: Hasta Recursos API 100% - 1 punto extra (Validación de datos)
+    * PrimerEmpleo: Hasta Recursos API 100% - 1 punto extra (Validación de datos)
   * ### Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
     * [Conceptos JS para entender React](https://codequs.com/p/r1U2DMtHL/10-javascript-es6-concepts-you-need-to-master-react/?fbclid=IwAR2NCXvI3_73VLyoDzOt_zL27q32t9sDd2IFjUKacdNjQ69EXKs1naTRp4M)
