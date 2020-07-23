@@ -213,12 +213,6 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Revisión de avances
   
   * **EXAMEN**
-  
-  * ### Videos
-    * [19. Relaciones polimórficas](https://www.loom.com/share/be662c3542954a578ec7dbd98664bc99)
-    * [20. Relaciones polimórficas (parte 2)](https://www.loom.com/share/b34c5d1e7e7247c0bb5508214e99c501)    
-    * [21. Envío de correos](https://www.loom.com/share/0c27a4e962044eb4b4c067e302d54209)
-    * **22. Pruebas unitarias** (PENDIENTE)
     
   * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
     
@@ -247,6 +241,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
     * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
     * [Local, Session storage, Cookies](https://morioh.com/p/73377031920f?fbclid=IwAR2AUfmTED7iRa5dciGvpFyazMSCKQKvbu8SB2t2GM6lFzPtBXAj0Pb1SXs)
+    
+  * ### Videos
+    * [19. Relaciones polimórficas](https://www.loom.com/share/be662c3542954a578ec7dbd98664bc99)
+    * [20. Relaciones polimórficas (parte 2)](https://www.loom.com/share/b34c5d1e7e7247c0bb5508214e99c501)    
+    * [21. Envío de correos](https://www.loom.com/share/0c27a4e962044eb4b4c067e302d54209)
+    * **22. Pruebas unitarias** (PENDIENTE)
   
   
 ### Clase 11 - Introducción a NextJS (2020-08-13)
