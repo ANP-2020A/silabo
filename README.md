@@ -249,16 +249,19 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * **22. Pruebas unitarias** (PENDIENTE)
   
   
-### Clase 11 - Introducción a NextJS (2020-08-13)
+### Clase 11 - Introducción a ReactJS (2020-08-13)
+  * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
+  * [Tutorial de JS](https://javascript.info/)
 
 
 
-### Clase 12 - Consumir datos de la API (2020-08-20)
+### Clase 12 - Introducción a NextJS (2020-08-20)
   * [FakeMyAPI](https://fakemyapi.com/)
 
 
 
-### Clase 13 - Autenticación en el cliente (2020-08-27)
+### Clase 13 - Consumir datos de la API y Autenticación en el cliente (2020-08-27)
   * **PRUEBA**
 
 
