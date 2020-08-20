@@ -259,13 +259,17 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/NLFKLQtE)
 
 
-### Clase 12 - Introducción a NextJS (2020-08-20)
+### Clase 12 - React useEffect hook y consumir datos de la API (2020-08-20)
+  * [Ejercicio lista de tareas con useEffect](https://classroom.github.com/a/UTG0_dcg) Las instrucciones están en el [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4).
+  
   * [FakeMyAPI](https://fakemyapi.com/)
 
 
 
-### Clase 13 - Consumir datos de la API y Autenticación en el cliente (2020-08-27)
-  * **PRUEBA**
+### Clase 13 - NextJS (2020-08-27)
+  * React + Ant Design
+  * Intro a NextJS
+  * Proyecto base de NextJS
 
 
 ### Clase 14 - Formularios y validación de datos (2020-09-03)
