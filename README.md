@@ -260,6 +260,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 12 - React useEffect hook y consumir datos de la API (2020-08-20)
+  * [Todo list con useEffect](https://github.com/ANP-2020A/react-tutorial-todolist/tree/todo-list)
+  * [Todo list con componentes](https://github.com/ANP-2020A/react-tutorial-todolist/tree/todo-list-components)  
   * [Ejercicio lista de tareas con useEffect](https://classroom.github.com/a/UTG0_dcg) Las instrucciones están en el [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4).
   
   * [FakeMyAPI](https://fakemyapi.com/)
