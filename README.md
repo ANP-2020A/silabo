@@ -267,8 +267,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [FakeMyAPI](https://fakemyapi.com/)
 
 
-
-### Clase 13 - NextJS (2020-08-27)
+### Clase 13 - React Boilerplate (proyecto base) (2020-08-27)
   * [Ajustes al API y explicación de boilerplate](https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_salvador_epn_edu_ec/EXH7vIqD6XJFiD0jWZCpJXQB6ylPZbeScDIokzPv7iFC2g?e=0lRo0f)
   
   * Hacer un fork del repo: [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
