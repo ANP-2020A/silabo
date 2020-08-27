@@ -270,6 +270,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 13 - NextJS (2020-08-27)
   * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate)
+  * [Ajustes al API y explicación de boilerplate](https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_salvador_epn_edu_ec/EXH7vIqD6XJFiD0jWZCpJXQB6ylPZbeScDIokzPv7iFC2g?e=0lRo0f)
   * [Blog API](https://github.com/chalosalvador/blog)
   * React + Ant Design
 
