@@ -269,13 +269,35 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 13 - NextJS (2020-08-27)
-  * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate)
   * [Ajustes al API y explicación de boilerplate](https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_salvador_epn_edu_ec/EXH7vIqD6XJFiD0jWZCpJXQB6ylPZbeScDIokzPv7iFC2g?e=0lRo0f)
-  * [Blog API](https://github.com/chalosalvador/blog)
-  * React + Ant Design
+  
+  * Hacer un fork del repo: [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
+    * Correr el `npm i`
+    * Crear en archivo `.env.development` con la variable `REACT_APP_API_HOST=http://localhost:8000/api`
+    * Correr `npm start`. Asegurarse que esto corra en el `http://localhost:3000`
+
+  * Hacer un fork del repo: [Blog API](https://github.com/chalosalvador/blog)
+    * Crear el archivo .env
+    * Correr `composer install`
+    * Generar la base de datos
+    * Correr el seed 
+    * Generar el jwt secret 
+    * Colocar credenciales del mailgun
+    * Correr `php artisan serve`. Asegurarse que esto corra en el `http://localhost:8000`
+    
+  * ### Ejercicio utilizando el boilerplate
+    * Crear un nuevo item en el submenú del usuario que diga "Perfil".
+    * Esta opción debe dirigir a la ruta en el frontend "/perfil"
+    * Crear una página que presente la información del perfil del usuario que devuelve el api.
+      * Para obtener la información del usuario puede utilizar el hook `useAuth()`, puede usar un console.log para ver la información que se incluye en este hook.
+    * Debajo de la información del perfil deben presentar las categorias a las que está suscrito el usuario. 
+      * Deberá agregar un nuevo endpoint que permita obtener esta información desde el api. `/user/categories`.
+      * Este enpoint debe estar protegido y debe devolver únicamente las categorias del usuario que hace la petición.
+      * El controlador debe obtener la información del usuario mediante `$user = Auth::user()`. Y puede devolver las categorias en un JsonResponse utilizando `$user->categories`.
 
 
 ### Clase 14 - Formularios y validación de datos (2020-09-03)
+  * React + Ant Design
 
 
 
