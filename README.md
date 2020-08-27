@@ -269,9 +269,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 13 - NextJS (2020-08-27)
+  * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate)
+  * [Blog API](https://github.com/chalosalvador/blog)
   * React + Ant Design
-  * Intro a NextJS
-  * Proyecto base de NextJS
 
 
 ### Clase 14 - Formularios y validación de datos (2020-09-03)
