@@ -295,11 +295,6 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * El controlador debe obtener la información del usuario mediante `$user = Auth::user()`. Y puede devolver las categorias en un JsonResponse utilizando `$user->categories`.
 
 
-### Clase 14 - Formularios y validación de datos (2020-09-03)
-  * React + Ant Design
-  * ### PRUEBA
-  
-  
 ### Clase extra - Instalación y personalización Antd
   * [Cookies](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies). Leer especialmente la sección httpOnly.
   * [Http code statuses](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
@@ -307,8 +302,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [ReactRouter](https://reactrouter.com/)
   * [Loadable components (code spliting)](https://loadable-components.com/docs/code-splitting/)
   * ### [Ejercicio Antd + React Router](https://github.com/ANP-2020A/antd-reactrouter.git)
+  
+  
 
-
+### Clase 14 - Tablas de Antd (2020-09-03)
+  * React + Ant Design
+  * ### PRUEBA
 
 
 ### Clase 15 - Reutilización de componentes (2020-09-10)
