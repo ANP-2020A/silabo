@@ -298,6 +298,16 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 14 - Formularios y validación de datos (2020-09-03)
   * React + Ant Design
   * ### PRUEBA
+  
+  
+### Clase extra - Instalación y personalización Antd
+  * [Cookies](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies). Leer especialmente la sección httpOnly.
+  * [Http code statuses]()
+  * [SWR](https://swr.vercel.app/)
+  * [ReactRouter](https://reactrouter.com/)
+  * [Loadable components (code spliting)]()
+  * ### [Ejercicio Antd + React Router](https://github.com/ANP-2020A/antd-reactrouter.git)
+
 
 
 
