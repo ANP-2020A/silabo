@@ -302,10 +302,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
 ### Clase extra - Instalación y personalización Antd
   * [Cookies](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies). Leer especialmente la sección httpOnly.
-  * [Http code statuses]()
+  * [Http code statuses](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
   * [SWR](https://swr.vercel.app/)
   * [ReactRouter](https://reactrouter.com/)
-  * [Loadable components (code spliting)]()
+  * [Loadable components (code spliting)](https://loadable-components.com/docs/code-splitting/)
   * ### [Ejercicio Antd + React Router](https://github.com/ANP-2020A/antd-reactrouter.git)
 
 
