@@ -306,19 +306,21 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
 
 ### Clase 14 - Tablas de Antd (2020-09-03)
-  * React + Ant Design
-  * ### PRUEBA
+  * Tablas de Antd
 
 
-### Clase 15 - Reutilización de componentes (2020-09-10)
+### Clase 15 - Avances del proyecto frontend (2020-09-10)
 
 
 
-### Clase 16 - Seguridad (2020-09-17)
-  * **EXAMEN**
-  * **ENTREGA DE PROYECTO FINAL**
+### Clase 16 - Examen (2020-09-17)
+  * ### EXAMEN
 
 
+### Presentación proyectos (2020-09-24)
+  * ### **ENTREGA DE PROYECTO FINAL**
+  
+  
 
 ## Código de Ética
 
