@@ -313,8 +313,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 
-### Clase 16 - Examen (2020-09-17)
-  * ### EXAMEN
+### Clase 16 - Examen (2020-09-23)
+  * ### EXAMEN [Crear Repo](https://classroom.github.com/a/gbiqT0UR)
 
 
 ### Presentación proyectos (2020-09-24)
